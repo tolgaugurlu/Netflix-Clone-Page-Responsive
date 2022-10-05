@@ -18,7 +18,7 @@ Thank you for your interest.
 
 ******************************
 
-#DEMO NETFLİX
+### DEMO NETFLİX
 
 <img width="1371" alt="Ekran Resmi 2022-10-05 18 24 35" src="https://user-images.githubusercontent.com/85436268/194116673-74167198-c75e-4ddf-84b4-cf35884a1c34.png">
 
